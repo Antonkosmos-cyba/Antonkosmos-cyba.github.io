@@ -1,0 +1,17 @@
+body {
+background-color: #0fa3f2;
+}
+.main {
+  text-align: center;
+  font-size: 28px;
+}
+.main2 {
+  border: deeppink;
+  color: #000000;
+}
+p {
+  color: #000000;
+}
+.main3 {
+  color: #0cf54b;
+}
