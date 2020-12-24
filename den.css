@@ -1,13 +1,16 @@
 body {
-background-color: #0fa3f2;
+background: url(NewYear.png) no-repeat center center fixed;
+background-size: cover;
 }
 .main {
   text-align: center;
   font-size: 32px;
   font-style: italic;
-  color: #000000;
+  color: green;
 }
 .main3 {
+  border-top: 4px solid green;
+  border-bottom: 3px solid green;
   color: #0cf54b;
 }
 img {
